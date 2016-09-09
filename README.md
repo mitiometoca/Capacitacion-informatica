@@ -1,1 +1,2 @@
-# Capacitacion-informatica
+# Capacitacion-informatica 
+integrantes del equipo: Tomas, emili-ano y ...
